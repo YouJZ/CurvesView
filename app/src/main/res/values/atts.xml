@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CurersView">
+        <!--异常颜色-->
+        <attr name="unusualColor" format="string"/>
+        <!--正常颜色-->
+        <attr name="normalColor" format="string"/>
+        <!--坐标颜色-->
+        <attr name="LineColor" format="string"/>
+        <!--文字大小-->
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+</resources>
